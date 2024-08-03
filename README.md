@@ -29,7 +29,7 @@ This project is a backend implementation for a real-time quiz game where two pla
 1. **Clone the repository**:
     ```bash
     git clone https://github.com/h1manshu99/quiz-game.git
-    cd quiz-game-backend
+    cd quiz-game
     ```
 
 2. **Install dependencies**:
